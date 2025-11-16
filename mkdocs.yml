@@ -1,0 +1,18 @@
+site_name: Wiki Lab
+site_url: https://PoisonXploIT.github.io/Wiki_Lab.github.io
+site_description: Informatica Avanzada y Ciberseguridad
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Cuadernos:
+      - ICMP Covert Channel for Reverse Shell: cuadernos/icmp-covert-channel/index.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
