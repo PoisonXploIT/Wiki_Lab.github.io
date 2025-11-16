@@ -1,0 +1,14 @@
+# Ignorar compilado de MkDocs
+site/
+
+# Python caches (por si usamos scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Sistemas/IDE
+.DS_Store
+Thumbs.db
+.vscode/
