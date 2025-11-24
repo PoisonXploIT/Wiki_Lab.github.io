@@ -11,4 +11,5 @@ __pycache__/
 # Sistemas/IDE
 .DS_Store
 Thumbs.db
-.vscode/
+.vscode/*.m4a
+site/
