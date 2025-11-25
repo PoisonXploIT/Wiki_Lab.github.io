@@ -9,7 +9,7 @@ nav:
   - Inicio: index.md
   - Cuadernos:
       - ICMP Covert Channel for Reverse Shell: cuadernos/icmp-covert-channel/index.md
-      - ESP32 Bus Pirate: cuadernos/ESP32 Bus Pirate Wiki Introduction and Modes/ESP32_Bus_Pirate_el_traductor_universal_electronico.md"
+      - ESP32 Bus Pirate: cuadernos/ESP32 Bus Pirate Wiki Introduction and Modes/ESP32_Bus_Pirate_el_traductor_universal_electronico.md
 
 markdown_extensions:
   - admonition
